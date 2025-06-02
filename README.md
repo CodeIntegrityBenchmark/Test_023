@@ -3,7 +3,7 @@ This project is part of a benchmark / test suite used to check the different git
 
 ## Textual Description
 Expected Commits against integrity rules :
-* Commit Updating The Readme file
+* Commits Updating The Readme file.
 * Commit After Creating The PR.
 
 ## Changes Made In This Repo
@@ -14,3 +14,4 @@ Expected Commits against integrity rules :
 * Create a PR to merge the branch with the main branch using the new user.
 * Create another commit on the main branch using the other (not new) user
 * Using the person who created the main branch, merge the PR using the rebase option.
+* Create a new branch to create expected results file and merge the branch with the main using a PR.
